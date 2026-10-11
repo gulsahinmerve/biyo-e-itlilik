@@ -1,0 +1,6 @@
+{
+  "name": "Yıldızkent BiyoAtlas — TÜBİTAK 4006-B Vatandaş Bilimi Projesi",
+  "description": "Yıldızkent Ortaokulu çevresi kuş ve böcek biyoçeşitliliği dijital atlası, yapay zekâ destekli tür tanımlama, besin zinciri analizi ve mevsim geçişleri (Eylül-Kasım / Mart-Mayıs) ekolojik araştırma platformu.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
